@@ -7,6 +7,7 @@ namespace CSharp_Cmd
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Manaswitha");
         }
     }
 }
